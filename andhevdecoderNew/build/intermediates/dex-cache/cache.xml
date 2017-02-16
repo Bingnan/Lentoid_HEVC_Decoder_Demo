@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/duanbingnan_mt/Downloads/MyCode/H265/Strongene/Strongene_Lentoid_HEVC_Decoder_Android_2015_06_15/andhevdecoderNew/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e080d4f02e9f29a819a22b2c09748a1e6fd84b8a">
+        <dex dex="/Users/duanbingnan_mt/Downloads/MyCode/H265/Strongene/Strongene_Lentoid_HEVC_Decoder_Android_2015_06_15/andhevdecoderNew/app/build/intermediates/pre-dexed/debug/instant-run_1a15887665af99d928bd83f77b1a7c8f030da081.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duanbingnan_mt/Downloads/MyCode/H265/Strongene/Strongene_Lentoid_HEVC_Decoder_Android_2015_06_15/andhevdecoderNew/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26c4f8c59fa5542415c51e661834b05747106aea">
+        <dex dex="/Users/duanbingnan_mt/Downloads/MyCode/H265/Strongene/Strongene_Lentoid_HEVC_Decoder_Android_2015_06_15/andhevdecoderNew/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_c8943526c42e2bbf9dbc0ecfbed24e17e0c06581.jar" />
+    </item>
+
+</items>

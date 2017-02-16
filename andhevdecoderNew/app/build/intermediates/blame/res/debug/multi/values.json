@@ -1,0 +1,186 @@
+[
+    {
+        "outputFile": "/Users/duanbingnan_mt/Downloads/MyCode/H265/Strongene/Strongene_Lentoid_HEVC_Decoder_Android_2015_06_15/andhevdecoderNew/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 13,
+                    "endColumn": 16,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "/Users/duanbingnan_mt/Downloads/MyCode/H265/Strongene/Strongene_Lentoid_HEVC_Decoder_Android_2015_06_15/andhevdecoderNew/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 199,
+                        "endLine": 20,
+                        "endColumn": 16,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endLine": 20,
+                    "endColumn": 16,
+                    "endOffset": 446
+                },
+                "from": {
+                    "file": "/Users/duanbingnan_mt/Downloads/MyCode/H265/Strongene/Strongene_Lentoid_HEVC_Decoder_Android_2015_06_15/andhevdecoderNew/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endLine": 8,
+                        "endColumn": 16,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 451,
+                    "endColumn": 47,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "/Users/duanbingnan_mt/Downloads/MyCode/H265/Strongene/Strongene_Lentoid_HEVC_Decoder_Android_2015_06_15/andhevdecoderNew/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 47,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 52,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "/Users/duanbingnan_mt/Downloads/MyCode/H265/Strongene/Strongene_Lentoid_HEVC_Decoder_Android_2015_06_15/andhevdecoderNew/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 552,
+                    "endColumn": 50,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "/Users/duanbingnan_mt/Downloads/MyCode/H265/Strongene/Strongene_Lentoid_HEVC_Decoder_Android_2015_06_15/andhevdecoderNew/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 50,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 43,
+                    "endOffset": 642
+                },
+                "from": {
+                    "file": "/Users/duanbingnan_mt/Downloads/MyCode/H265/Strongene/Strongene_Lentoid_HEVC_Decoder_Android_2015_06_15/andhevdecoderNew/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 43,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 647,
+                    "endColumn": 43,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "/Users/duanbingnan_mt/Downloads/MyCode/H265/Strongene/Strongene_Lentoid_HEVC_Decoder_Android_2015_06_15/andhevdecoderNew/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 249,
+                        "endColumn": 40,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 977
+                },
+                "from": {
+                    "file": "/Users/duanbingnan_mt/Downloads/MyCode/H265/Strongene/Strongene_Lentoid_HEVC_Decoder_Android_2015_06_15/andhevdecoderNew/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 982,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "/Users/duanbingnan_mt/Downloads/MyCode/H265/Strongene/Strongene_Lentoid_HEVC_Decoder_Android_2015_06_15/andhevdecoderNew/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]
